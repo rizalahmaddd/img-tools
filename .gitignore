@@ -1,0 +1,13 @@
+node_modules
+dist
+dev-dist
+public/mediapipe
+*.local
+.DS_Store
+.playwright-mcp
+.wrangler
+*.tsbuildinfo
+promo/
+
+# Promo materials
+promo
